@@ -1,4 +1,6 @@
-## Hey Squad, I'm Shivam 👋
+## Hey Squad, I'm Shivam Yadav a Blockchain Developer 👋
+
+
 
 <!--
 **Shivamycodee/Shivamycodee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
