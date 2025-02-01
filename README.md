@@ -7,7 +7,7 @@
   <img height=280 align="center" src="https://github-readme-stats-virid-gamma-17.vercel.app/api?username=Shivamycodee&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&rank_icon=github" />
 </a>
 <a href="https://github.com/Shivamycodee/convoychat">
-  <img height=280 align="center" src="https://github-readme-stats-virid-gamma-17.vercel.app/api/top-langs/?username=Shivamycodee&langs_count=12&layout=compact&hide_progress=true" />
+  <img height=280 align="center" src="https://github-readme-stats-virid-gamma-17.vercel.app/api/top-langs/?username=Shivamycodee&langs_count=12&layout=compact&hide_progress=true&theme=tokyonight" />
 </a>
 
 <br><br>
