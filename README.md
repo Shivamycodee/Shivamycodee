@@ -1,4 +1,6 @@
-## Hey Squad, I'm Shivam Yadav a Blockchain Developer 👋
+## Hey Squad, I'm Shivam Yadav 👋
+
+ I'm a passionate blockchain developer with over 2 years of experience. I love designing and implementing innovative blockchain solutions and navigating the exciting world of decentralized systems. I'm all about staying updated with the latest advancements in blockchain technology and am dedicated to delivering impactful solutions. Let's connect and explore the future of blockchain together!
 
 ![](https://komarev.com/ghpvc/?username=Shivamycodee&color=blue)
 
