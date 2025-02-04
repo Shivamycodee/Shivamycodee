@@ -13,6 +13,4 @@
 </a>
 
 <br><br>
-<a top=40 href="https://git.io/streak-stats">
-  <img height=162 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Shivamycodee&theme=tokyonight&border_radius=5" />
-</a>
+
